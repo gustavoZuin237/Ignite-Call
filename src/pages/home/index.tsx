@@ -2,6 +2,8 @@ import { Heading, Text } from '@ignite-ui/react'
 import { Container, Hero, Preview } from './styles'
 
 import Image from 'next/image'
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import previewImage from '../../assets/app-preview.png'
 import { ClaimUsernameForm } from './components/ClaimUsernameForm'
 
